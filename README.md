@@ -1,0 +1,2 @@
+# CROP-YIELD-PREDICTION-SYSTEM-BASED-ON-RAINFALL-SOIL-CHARACTERISTICS-AND-FERTILIZER-USAGE
+Agricultural productivity is influenced by multiple factors such as rainfall, soil quality, fertilizer usage, temperature, and farming practices. Traditional crop yield estimation methods often depend on manual observations and historical experience, leading to inaccurate predictions and inefficient resource utilization. 
